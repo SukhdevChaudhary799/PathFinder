@@ -1,2 +1,2 @@
 # PathFinder
-In this project 
+Informed search visualizer
